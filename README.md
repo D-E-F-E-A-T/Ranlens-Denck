@@ -1,9 +1,9 @@
 # Hello 👋 Welcome to my profile
 
-# Programador iniciante 👨🏻‍💻
+## Programador iniciante 👨🏻‍💻
 
-# Aprendendo Python e redes neurais 🧠
+### Aprendendo Python e redes neurais 🧠
 
-# Desenvolvo nas madrugadas 🌆
+#### Desenvolvo nas madrugadas 🌆
 
 
